@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - Rentluxcar</title>
+
+	<link rel="stylesheet" href="@Url.Content("~/css/site.css")" />
+	<link rel="stylesheet" href="@Url.Content("~/css/style.css")" />
+	<link rel="stylesheet" href="@Url.Content("~/Rentluxcar.styles.css")" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100" />
+
+</head>
+<body>
+   <header class="header-two">
+
+				<div class="theme-menu-wrapper">
+					<div class="container">
+						<div class="bg-wrapper clearfix">
+							<div class="logo float-left"><a href="index.html"><img class="logmer" src="images\logo\Logo.png" alt=""></a></div>
+							<!-- ============== Menu Warpper ================ -->
+							<div class="menu-wrapper float-left">
+								<nav id="mega-menu-holder" class="clearfix">
+									<ul class="clearfix">
+										<li class="active"><a href="index.html">Home</a></li>
+										<li><a href="about.html">Sobre nós</a></li>
+										<li><a href="team.html">Equipa</a></li>
+										<li><a href="service.html">Carros</a></li>
+										<li><a href="#">Blog</a>
+											<ul class="dropdown">
+												<li><a href="blog.html">Blog Left Sidebar</a></li>
+												<li><a href="blog-r.html">Blog Right Sidebar</a></li>
+												<li><a href="blog-details.html">Blog Post</a></li>
+											</ul>
+										</li>
+										<li><a href="contact.html">Contactenos</a></li>
+										<li><a src="images\icon\usericon.png"></a></li>
+									</ul>
+								</nav> <!-- /#mega-menu-holder -->
+							</div> <!-- /.menu-wrapper -->
+							<div class="right-widget float-right">
+								<ul>
+									<li class="search-option">
+										<div class="dropdown">
+											<button type="button" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search" aria-hidden="true"></i></button>
+											<form action="#" class="dropdown-menu">
+												<input type="text" Placeholder="Enter Your Search">
+												<button><i class="fa fa-search"></i></button>
+											</form>
+										</div>
+									</li>
+								</ul>
+							</div> <!-- /.right-widget -->
+						</div> <!-- /.bg-wrapper -->
+					</div> <!-- /.container -->
+				</div> <!-- /.theme-menu-wrapper -->
+			</header>  <!-- /.header-one -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Rentluxcar - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
