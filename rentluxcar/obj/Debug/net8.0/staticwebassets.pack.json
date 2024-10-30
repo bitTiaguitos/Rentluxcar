@@ -1,0 +1,1645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Rentluxcar.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Rentluxcar.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\README.md",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\css\\camera.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\css\\camera.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\images\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\images\\camera-loader.gif",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\images\\camera-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\images\\camera_skins.png",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\images\\camera_skins.png"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\scripts\\_notes\\dwsync.xml",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\scripts\\_notes\\dwsync.xml"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\scripts\\camera.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\scripts\\camera.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\scripts\\camera.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\scripts\\camera.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\scripts\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\scripts\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\scripts\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\Camera-master\\scripts\\jquery.mobile.customized.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\Camera-master\\scripts\\jquery.mobile.customized.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\.gitignore",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\README.md",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\bower.json",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\css\\libs\\animate.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\css\\libs\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\demo.html",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\dist\\wow.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\dist\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\dist\\wow.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\dist\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\package.json",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\coffeescripts\\helpers\\SpecHelper.coffee",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\coffeescripts\\helpers\\SpecHelper.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\coffeescripts\\wow-spec.coffee",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\coffeescripts\\wow-spec.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\custom.html",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\custom.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\simple.html",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\simple.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\javascripts\\helpers\\SpecHelper.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\javascripts\\helpers\\SpecHelper.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\javascripts\\libs\\jasmine-jquery.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\javascripts\\libs\\jasmine-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\javascripts\\libs\\jquery.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\javascripts\\libs\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\spec\\javascripts\\wow-spec.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\spec\\javascripts\\wow-spec.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\WOW-master\\src\\wow.coffee",
+      "PackagePath": "staticwebassets\\css\\vendor\\WOW-master\\src\\wow.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\contact-form\\jquery.form.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\contact-form\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\contact-form\\validate.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\contact-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\.gitignore",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\README.md",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\bower.json",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\dist\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\dist\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\dist\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\dist\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\docs\\index.html",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\gulpfile.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\package.json",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\css\\core.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\css\\fullscreen.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\css\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\css\\slideshow.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\css\\slideshow.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\css\\thumbs.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\css\\thumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\core.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\fullscreen.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\fullscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\guestures.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\guestures.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\hash.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\hash.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\media.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\media.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\slideshow.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\slideshow.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\fancybox\\src\\js\\thumbs.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\fancybox\\src\\js\\thumbs.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\html5shiv.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\jquery.2.2.3.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\jquery.2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\jquery.canvasjs.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\jquery.canvasjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\language-switcher\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\language-switcher\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\language-switcher\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\language-switcher\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\menu\\dist\\css\\slimmenu.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\menu\\dist\\css\\slimmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\menu\\src\\js\\jquery.slimmenu.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\menu\\src\\js\\jquery.slimmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\menu\\src\\scss\\slimmenu.scss",
+      "PackagePath": "staticwebassets\\css\\vendor\\menu\\src\\scss\\slimmenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\owl-carousel\\animate.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\owl-carousel\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\owl-carousel\\owl.theme.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\owl-carousel\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\popper.js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\popper.js\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\vendor\\respond.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\respond.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\about.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\admin_index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\admin_index.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\admin_manage.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\admin_manage.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\blog-details.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\blog-details.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\blog-r.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\blog-r.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\blog.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\contact.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\css\\admin_style.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\css\\admin_style.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\css\\style.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\1.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\1.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\consultation.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\consultation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\fav-icon\\icon.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\fav-icon\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\11.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\12.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\13.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\14.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\16.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\de.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\es.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\fr.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\inc\\sendemail.php",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\inc\\sendemail.php"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\js\\googlemap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\js\\googlemap.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\js\\map-script.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\js\\script.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\js\\theme.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\team.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\css\\camera.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\css\\camera.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\images\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\images\\camera-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\images\\camera-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\images\\camera_skins.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\images\\camera_skins.png"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\_notes\\dwsync.xml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\_notes\\dwsync.xml"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\camera.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\camera.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\camera.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\camera.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\jquery.mobile.customized.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\Camera-master\\scripts\\jquery.mobile.customized.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\css\\libs\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\css\\libs\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\css\\site.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\demo.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\dist\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\dist\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\dist\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\dist\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\coffeescripts\\helpers\\SpecHelper.coffee",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\coffeescripts\\helpers\\SpecHelper.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\coffeescripts\\wow-spec.coffee",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\coffeescripts\\wow-spec.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\custom.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\custom.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\simple.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\simple.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\helpers\\SpecHelper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\helpers\\SpecHelper.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\libs\\jasmine-jquery.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\libs\\jasmine-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\libs\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\libs\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\wow-spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\spec\\javascripts\\wow-spec.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\WOW-master\\src\\wow.coffee",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\WOW-master\\src\\wow.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\contact-form\\jquery.form.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\contact-form\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\contact-form\\validate.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\contact-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\docs\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\gulpfile.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\core.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\fullscreen.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\slideshow.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\slideshow.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\thumbs.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\css\\thumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\core.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\fullscreen.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\fullscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\guestures.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\guestures.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\hash.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\hash.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\media.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\media.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\slideshow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\slideshow.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\thumbs.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\fancybox\\src\\js\\thumbs.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\html5shiv.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\jquery.2.2.3.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\jquery.2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\jquery.canvasjs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\jquery.canvasjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\language-switcher\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\language-switcher\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\language-switcher\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\language-switcher\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\menu\\dist\\css\\slimmenu.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\menu\\dist\\css\\slimmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\menu\\src\\js\\jquery.slimmenu.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\menu\\src\\js\\jquery.slimmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\menu\\src\\scss\\slimmenu.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\menu\\src\\scss\\slimmenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\owl.theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\owl-carousel\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\popper.js\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\respond.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\respond.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\css\\camera.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\css\\camera.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\images\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\images\\camera-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\images\\camera-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\images\\camera_skins.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\images\\camera_skins.png"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\_notes\\dwsync.xml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\_notes\\dwsync.xml"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\camera.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\camera.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\camera.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\camera.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\jquery.mobile.customized.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\Camera-master\\scripts\\jquery.mobile.customized.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\css\\libs\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\css\\libs\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\css\\site.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\demo.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\dist\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\dist\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\dist\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\dist\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\coffeescripts\\helpers\\SpecHelper.coffee",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\coffeescripts\\helpers\\SpecHelper.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\coffeescripts\\wow-spec.coffee",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\coffeescripts\\wow-spec.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\custom.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\custom.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\simple.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\fixtures\\simple.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\helpers\\SpecHelper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\helpers\\SpecHelper.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\libs\\jasmine-jquery.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\libs\\jasmine-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\libs\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\libs\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\wow-spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\spec\\javascripts\\wow-spec.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\src\\wow.coffee",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\WOW-master\\src\\wow.coffee"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\contact-form\\jquery.form.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\contact-form\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\contact-form\\validate.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\contact-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\docs\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\gulpfile.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\core.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\fullscreen.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\slideshow.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\slideshow.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\thumbs.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\css\\thumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\core.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\fullscreen.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\fullscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\guestures.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\guestures.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\hash.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\hash.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\media.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\media.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\slideshow.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\slideshow.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\thumbs.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\fancybox\\src\\js\\thumbs.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\html5shiv.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.2.2.3.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.canvasjs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.canvasjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\language-switcher\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\language-switcher\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\language-switcher\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\language-switcher\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\menu\\dist\\css\\slimmenu.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\menu\\dist\\css\\slimmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\menu\\src\\js\\jquery.slimmenu.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\menu\\src\\js\\jquery.slimmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\menu\\src\\scss\\slimmenu.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\menu\\src\\scss\\slimmenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\owl.theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\owl-carousel\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\popper.js\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\vendor\\vendor\\respond.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\vendor\\vendor\\respond.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Rentluxcar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Rentluxcar.props",
+      "PackagePath": "build\\Rentluxcar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Rentluxcar.props",
+      "PackagePath": "buildMultiTargeting\\Rentluxcar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Rentluxcar.props",
+      "PackagePath": "buildTransitive\\Rentluxcar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
