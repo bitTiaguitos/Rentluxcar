@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "rentluxcar\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "rentluxcar\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T22:23:17.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
