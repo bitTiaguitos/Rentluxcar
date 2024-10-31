@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\service\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\service\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\blogr\\blogr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\blogr\\blogr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\blogdetails\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\blogdetails\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\adminmanage\\adminmanage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\adminmanage\\adminmanage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\adminindex\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\adminindex\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|c:\\users\\tiago\\source\\repos\\rentluxcar\\rentluxcar\\views\\about\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F88344E1-0528-481C-BCEB-988B3E181B67}|Rentluxcar\\Rentluxcar.csproj|solutionrelative:rentluxcar\\views\\about\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,115 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Service.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Service\\Service.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Service\\Service.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Service\\Service.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Service\\Service.cshtml",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAqwGUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:38:51.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Contact\\Contact.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Contact\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Contact\\Contact.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Contact\\Contact.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:38:06.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Blogr.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Blogr\\Blogr.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Blogr\\Blogr.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Blogr\\Blogr.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Blogr\\Blogr.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:37:38.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Blogdetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Blogdetails\\Blogdetails.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Blogdetails\\Blogdetails.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Blogdetails\\Blogdetails.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Blogdetails\\Blogdetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:37:11.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Blog.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Blog\\Blog.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Blog\\Blog.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Blog\\Blog.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Blog\\Blog.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:36:47.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Adminmanage.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Adminmanage\\Adminmanage.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Adminmanage\\Adminmanage.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Adminmanage\\Adminmanage.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Adminmanage\\Adminmanage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:36:19.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Adminindex.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Adminindex\\Adminindex.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Adminindex\\Adminindex.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Adminindex\\Adminindex.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Adminindex\\Adminindex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:35:50.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\About\\About.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\About\\About.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\About\\About.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\About\\About.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T15:35:29.28Z",
-              "EditorCaption": ""
             }
           ]
         }
