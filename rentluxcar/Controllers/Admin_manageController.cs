@@ -6,7 +6,7 @@ namespace Rentluxcar.Controllers
 	public class Admin_manageController : Controller
 	{
 		// GET: Admin_manageController
-		public ActionResult Index()
+		public ActionResult Adminmanage()
 		{
 			return View();
 		}
