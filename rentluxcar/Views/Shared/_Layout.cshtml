@@ -15,23 +15,16 @@
 	<!-- iOS Safari -->
 	<meta name="apple-mobile-web-app-status-bar-style" content="#061948">
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+	<link rel="icon" type="image/png" sizes="56x56" href="Content/images/fav-icon/icon.png">
 	<!-- Main style sheet -->
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap_nedda/css/style.css">
 	<!-- responsive style sheet -->
-	<link rel="stylesheet" type="text/css" href="css/responsive.css">
-
-	<link rel="stylesheet" href="@Url.Content("~/Content/site.css")" />
-	<link rel="stylesheet" href="@Url.Content("~/Content/style.css")" />
-	<link rel="stylesheet" href="@Url.Content("~/Contentbootstrap.min.css")" />
-	<link rel="stylesheet" href="@Url.Content("~/Rentluxcar.styles.css")" />
-	<link rel="stylesheet" href="@Url.Content("~/Content/admin_style.css")" />
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap_nedda/css/responsive.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100" />
 
 </head>
 <body>
 	<header class="header-two">
-
 		<div class="theme-menu-wrapper">
 			<div class="container">
 				<div class="bg-wrapper clearfix">
@@ -60,24 +53,25 @@
 							</ul>
 						</nav> <!-- /#mega-menu-holder -->
 					</div> <!-- /.menu-wrapper -->
-					<div style="padding: 30px; "><img src="images\icon\usericon.png" alt="User Icon" style="width: 40px; height: 40px; "></div>
+					<div style="padding: 30px; "><img src="Content/images/icon/usericon.png" alt="User Icon" style="width: 40px; height: 40px; "></div>
 				</div> <!-- /.bg-wrapper -->
 			</div> <!-- /.container -->
 		</div> <!-- /.theme-menu-wrapper -->
-    <div class="container">
+	</header>
+<div class="container">
         <main role="main" class="pb-3">
 
             @RenderBody()
 
         </main>
-    </div>
+</div>
 
 	<footer class="theme-footer-two">
 		<div class="top-footer">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6 col-12 logo-widget">
-						<div class="logo"><a href="index.html"><img class="logmer" src="images/logo/Logo.png" alt=""></a></div>
+						<div class="logo"><a href="index.html"><img class="logmer" src="Content/images/logo/Logo.png" alt=""></a></div>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						<ul class="social-icon">
 							<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
@@ -132,8 +126,11 @@
 
     <script src="~/lib/bootstrap_nedda/jquery/dist/jquery.js"></script>
     <script src="~/lib/bootstrap_nedda/jquery-validation/dist/additional-methods.js"></script>
+		<script src="~/lib/bootstrap_nedda/jquery-validation/dist/additional-methods.min.js"></script>
 	<script src="~/lib/bootstrap_nedda/jquery-validation/dist/jquery.validate.js"></script>
+		<script src="~/lib/bootstrap_nedda/jquery-validation/dist/jquery.validate.min.js"></script>
 	<script src="~/lib/bootstrap_nedda/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+		<script src="~/lib/bootstrap_nedda/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

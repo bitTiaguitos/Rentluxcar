@@ -5,6 +5,546 @@
       "PackagePath": "staticwebassets\\Rentluxcar.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\admin_style.css",
+      "PackagePath": "staticwebassets\\Content\\admin_style.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\flaticon.css",
+      "PackagePath": "staticwebassets\\Content\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\icon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\icon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\icon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\icon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\icon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\icon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\icon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\icon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\icon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\icon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\fonts\\icon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\Content\\fonts\\icon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\1.gif",
+      "PackagePath": "staticwebassets\\Content\\images\\1.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\Content\\images\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\post-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\post-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\post-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\post-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\blog\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\consultation.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\consultation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fav-icon\\icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\fav-icon\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\icon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\icon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\icon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\icon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\icon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\icon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\icon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\icon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\icon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\icon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\fonts\\icon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\Content\\images\\fonts\\icon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\footer\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\footer\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\footer\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\footer\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\footer\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\footer\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\footer\\4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\footer\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\footer\\5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\footer\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\footer\\6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\footer\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\11.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\12.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\13.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\14.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\16.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\de.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\es.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\images\\home\\fr.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\home\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\responsive.css",
+      "PackagePath": "staticwebassets\\Content\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\site.css",
+      "PackagePath": "staticwebassets\\Content\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\Content\\style.css",
+      "PackagePath": "staticwebassets\\Content\\style.css"
+    },
+    {
       "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -587,130 +1127,6 @@
     {
       "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\fonts\\icon\\font\\flaticon.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\fonts\\icon\\font\\flaticon.css"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\1.gif",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\1.gif"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\about\\1.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\about\\1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\about\\2.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\about\\2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blank.gif",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blank.gif"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\comment-1.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\comment-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\comment-2.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\comment-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-1.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-2.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-3.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\post-4.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\post-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\recent-1.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\recent-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\recent-2.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\recent-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\blog\\recent-3.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\blog\\recent-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\consultation.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\consultation.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\contact.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\contact.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\fav-icon\\icon.png",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\fav-icon\\icon.png"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\1.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\2.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\3.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\4.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\5.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\footer\\6.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\footer\\6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\11.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\11.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\12.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\12.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\13.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\13.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\14.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\14.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\16.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\16.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\2.jpg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\de.svg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\de.svg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\es.svg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\es.svg"
-    },
-    {
-      "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\images\\home\\fr.svg",
-      "PackagePath": "staticwebassets\\lib\\bootstrap_nedda\\images\\home\\fr.svg"
     },
     {
       "Id": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\Rentluxcar\\wwwroot\\lib\\bootstrap_nedda\\inc\\sendemail.php",

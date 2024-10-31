@@ -14,24 +14,159 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Content\bootstrap.min.css" />
-    <None Remove="Content\site.css" />
+    <Content Remove="wwwroot\css\responsive.css" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Content\bootstrap.min.css">
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="Content\site.css">
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
+    <None Remove="wwwroot\Content\1.gif" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\css\font-awesome.css" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\css\font-awesome.min.css" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\fonts\fontawesome-webfont.eot" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\fonts\fontawesome-webfont.woff" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\fonts\FontAwesome.otf" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\HELP-US-OUT.txt" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\animated.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\bordered-pulled.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\core.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\fixed-width.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\font-awesome.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\icons.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\larger.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\list.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\mixins.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\path.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\rotated-flipped.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\screen-reader.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\stacked.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\less\variables.less" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\font-awesome.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_animated.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_bordered-pulled.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_core.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_fixed-width.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_icons.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_larger.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_list.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_mixins.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_path.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_rotated-flipped.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_screen-reader.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_stacked.scss" />
+    <None Remove="wwwroot\Content\fonts\font-awesome\scss\_variables.scss" />
+    <None Remove="wwwroot\Content\fonts\glyphicons\glyphicons-halflings-regular.eot" />
+    <None Remove="wwwroot\Content\fonts\glyphicons\glyphicons-halflings-regular.svg" />
+    <None Remove="wwwroot\Content\fonts\glyphicons\glyphicons-halflings-regular.ttf" />
+    <None Remove="wwwroot\Content\fonts\glyphicons\glyphicons-halflings-regular.woff" />
+    <None Remove="wwwroot\Content\fonts\glyphicons\glyphicons-halflings-regular.woff2" />
+    <None Remove="wwwroot\Content\fonts\icon\font\flaticon.css" />
+    <None Remove="wwwroot\Content\fonts\icon\font\Flaticon.eot" />
+    <None Remove="wwwroot\Content\fonts\icon\font\Flaticon.svg" />
+    <None Remove="wwwroot\Content\fonts\icon\font\Flaticon.ttf" />
+    <None Remove="wwwroot\Content\fonts\icon\font\Flaticon.woff" />
+    <None Remove="wwwroot\Content\fonts\icon\font\_flaticon.scss" />
+    <None Remove="wwwroot\Content\images\about\1.jpg" />
+    <None Remove="wwwroot\Content\images\about\2.jpg" />
+    <None Remove="wwwroot\Content\blank.gif" />
+    <None Remove="wwwroot\Content\images\blog\comment-1.jpg" />
+    <None Remove="wwwroot\Content\images\blog\comment-2.jpg" />
+    <None Remove="wwwroot\Content\images\blog\post-1.jpg" />
+    <None Remove="wwwroot\Content\images\blog\post-2.jpg" />
+    <None Remove="wwwroot\Content\images\blog\post-3.jpg" />
+    <None Remove="wwwroot\Content\images\blog\post-4.jpg" />
+    <None Remove="wwwroot\Content\images\blog\recent-1.jpg" />
+    <None Remove="wwwroot\Content\images\blog\recent-2.jpg" />
+    <None Remove="wwwroot\Content\images\blog\recent-3.jpg" />
+    <None Remove="wwwroot\Content\bootstrap.min.css" />
+    <None Remove="wwwroot\Content\consultation.jpg" />
+    <None Remove="wwwroot\Content\contact.jpg" />
+    <None Remove="wwwroot\Content\images\fav-icon\icon.png" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\css\font-awesome.css" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\css\font-awesome.min.css" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\fonts\fontawesome-webfont.eot" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\fonts\fontawesome-webfont.woff" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\fonts\FontAwesome.otf" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\HELP-US-OUT.txt" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\animated.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\bordered-pulled.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\core.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\fixed-width.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\font-awesome.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\icons.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\larger.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\list.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\mixins.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\path.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\rotated-flipped.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\screen-reader.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\stacked.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\less\variables.less" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\font-awesome.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_animated.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_bordered-pulled.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_core.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_fixed-width.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_icons.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_larger.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_list.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_mixins.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_path.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_rotated-flipped.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_screen-reader.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_stacked.scss" />
+    <None Remove="wwwroot\Content\images\fonts\font-awesome\scss\_variables.scss" />
+    <None Remove="wwwroot\Content\images\fonts\glyphicons\glyphicons-halflings-regular.eot" />
+    <None Remove="wwwroot\Content\images\fonts\glyphicons\glyphicons-halflings-regular.svg" />
+    <None Remove="wwwroot\Content\images\fonts\glyphicons\glyphicons-halflings-regular.ttf" />
+    <None Remove="wwwroot\Content\images\fonts\glyphicons\glyphicons-halflings-regular.woff" />
+    <None Remove="wwwroot\Content\images\fonts\glyphicons\glyphicons-halflings-regular.woff2" />
+    <None Remove="wwwroot\Content\images\fonts\icon\font\flaticon.css" />
+    <None Remove="wwwroot\Content\images\fonts\icon\font\Flaticon.eot" />
+    <None Remove="wwwroot\Content\images\fonts\icon\font\Flaticon.svg" />
+    <None Remove="wwwroot\Content\images\fonts\icon\font\Flaticon.ttf" />
+    <None Remove="wwwroot\Content\images\fonts\icon\font\Flaticon.woff" />
+    <None Remove="wwwroot\Content\images\fonts\icon\font\_flaticon.scss" />
+    <None Remove="wwwroot\Content\images\footer\1.jpg" />
+    <None Remove="wwwroot\Content\images\footer\2.jpg" />
+    <None Remove="wwwroot\Content\images\footer\3.jpg" />
+    <None Remove="wwwroot\Content\images\footer\4.jpg" />
+    <None Remove="wwwroot\Content\images\footer\5.jpg" />
+    <None Remove="wwwroot\Content\images\footer\6.jpg" />
+    <None Remove="wwwroot\Content\images\home\11.jpg" />
+    <None Remove="wwwroot\Content\images\home\12.jpg" />
+    <None Remove="wwwroot\Content\images\home\13.jpg" />
+    <None Remove="wwwroot\Content\images\home\14.jpg" />
+    <None Remove="wwwroot\Content\images\home\16.jpg" />
+    <None Remove="wwwroot\Content\images\home\2.jpg" />
+    <None Remove="wwwroot\Content\images\home\de.svg" />
+    <None Remove="wwwroot\Content\images\home\es.svg" />
+    <None Remove="wwwroot\Content\images\home\fr.svg" />
+    <None Remove="wwwroot\Content\site.css" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Images\" />
     <Folder Include="wwwroot\lib\bootstrap_nedda\" />
+    <Folder Include="wwwroot\lib\bootstrap_nedda\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\admin_style.css" />
+    <None Include="wwwroot\Content\flaticon.css" />
+    <None Include="wwwroot\Content\font-awesome.css" />
+    <None Include="wwwroot\Content\font-awesome.min.css" />
+    <None Include="wwwroot\Content\images\1.gif" />
+    <None Include="wwwroot\Content\images\blank.gif" />
+    <None Include="wwwroot\Content\images\consultation.jpg" />
+    <None Include="wwwroot\Content\images\contact.jpg" />
+    <None Include="wwwroot\Content\responsive.css" />
+    <None Include="wwwroot\Content\style.css" />
+    <None Include="wwwroot\css\responsive.css" />
   </ItemGroup>
 
 </Project>
