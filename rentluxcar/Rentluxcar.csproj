@@ -14,7 +14,22 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Content\" />
+    <None Remove="Content\bootstrap.min.css" />
+    <None Remove="Content\site.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Content\bootstrap.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Content\site.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Images\" />
     <Folder Include="wwwroot\lib\bootstrap_nedda\" />
   </ItemGroup>
