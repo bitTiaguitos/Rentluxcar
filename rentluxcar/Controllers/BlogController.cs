@@ -6,7 +6,7 @@ namespace Rentluxcar.Controllers
 	public class BlogController : Controller
 	{
 		// GET: BlogController
-		public ActionResult Index()
+		public ActionResult Blog()
 		{
 			return View();
 		}

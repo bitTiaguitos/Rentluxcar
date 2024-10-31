@@ -6,7 +6,7 @@ namespace Rentluxcar.Controllers
 	public class TeamController : Controller
 	{
 		// GET: TeamController
-		public ActionResult Index()
+		public ActionResult Team()
 		{
 			return View();
 		}

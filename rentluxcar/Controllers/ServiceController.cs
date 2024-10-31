@@ -6,7 +6,7 @@ namespace Rentluxcar.Controllers
 	public class ServiceController : Controller
 	{
 		// GET: ServiceController
-		public ActionResult Index()
+		public ActionResult Service()
 		{
 			return View();
 		}

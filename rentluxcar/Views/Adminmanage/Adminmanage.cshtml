@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>RentLuxCar</title>
+    <!-- For Resposive Device -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- For Window Tab Color -->
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#061948">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#061948">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#061948">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="56x56" href="Content/images/fav-icon/icon.png">
+    <!-- Main style sheet -->
+    <link rel="stylesheet" type="text/css" href="lib/bootstrap_nedda/css/style.css">
+    <!-- responsive style sheet -->
+    <link rel="stylesheet" type="text/css" href="lib/bootstrap_nedda/css/responsive.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100" />
+
+</head>
+
+<header>
+    <h1>RentLuxCar - Aluguel de Automóveis de Luxo</h1>
+    <nav>
+        <a href="index.html">Returnar ao Site</a>
+        <a href="admin_index.html">Home</a>
+        <a href="admin_manage.html">Administração</a>
+    </nav>
+</header>
+<main>
+    <section>
+        <h2>Adicionar Novo Carro</h2>
+        <form id="car-form">
+            <label for="name">Nome do Carro:</label><br>
+            <input type="text" id="name" required><br>
+
+            <label for="image">URL da Imagem:</label><br>
+            <input type="url" id="image" required><br>
+
+            <label for="features">Características:</label><br>
+            <textarea id="features" required></textarea><br>
+
+            <label for="engine">Cilindrada:</label><br>
+            <input type="text" id="engine" required><br>
+
+            <label for="type">Tipo de Veículo:</label><br>
+            <input type="text" id="type" required><br>
+
+            <label for="year">Ano:</label><br>
+            <input type="text" id="year" required><br>
+
+            <label for="price">Preço por Dia:</label><br>
+            <input type="number" id="price" required><br>
+
+            <label for="color">Cor:</label><br>
+            <input type="text" id="color" required><br>
+
+            <label for="fuel">Combustível:</label><br>
+            <input type="text" id="fuel" required><br>
+            <br>
+            <button type="submit">Adicionar Carro</button><br>
+        </form>
+    </section>
+    <section>
+        <br><h2>Lista de Carros</h2>
+        <input type="text" id="search" placeholder="Procurar Carro..." oninput="filterCars()">
+        <div id="car-list">
+            <br>
+            <button type="submit">Procurar</button><br>
+            <!-- A lista de carros será exibida aqui -->
+        </div>
+    </section>
+</main>
+<script src="admin_script.js"></script>

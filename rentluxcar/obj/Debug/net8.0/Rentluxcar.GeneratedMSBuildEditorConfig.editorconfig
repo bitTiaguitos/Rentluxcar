@@ -22,20 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Admin_index/Admin_index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5faW5kZXhcQWRtaW5faW5kZXguY3NodG1s
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Adminindex/Adminindex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pbmRleFxBZG1pbmluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Admin_manage/Admin_manage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5fbWFuYWdlXEFkbWluX21hbmFnZS5jc2h0bWw=
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Adminmanage/Adminmanage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5tYW5hZ2VcQWRtaW5tYW5hZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blog-details/Blog-details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZy1kZXRhaWxzXEJsb2ctZGV0YWlscy5jc2h0bWw=
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blogdetails/Blogdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2RldGFpbHNcQmxvZ2RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blog-r/Blog-r.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZy1yXEJsb2ctci5jc2h0bWw=
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blogr/Blogr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3JcQmxvZ3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blog/Blog.cshtml]
