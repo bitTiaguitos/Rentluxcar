@@ -18,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "rentluxcar\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "rentluxcar\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T10:39:29.285Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,9 +32,22 @@
               "RelativeDocumentMoniker": "rentluxcar\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "rentluxcar\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T10:34:07.46Z",
+              "WhenOpened": "2024-10-31T11:39:18.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "rentluxcar\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\Rentluxcar\\rentluxcar\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "rentluxcar\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:22:29.639Z",
               "EditorCaption": ""
             }
           ]
