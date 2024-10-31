@@ -18,12 +18,52 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\tiago\source\repos\Rentluxcar\Rentluxcar
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Admin_index/Admin_index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5faW5kZXhcQWRtaW5faW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Admin_manage/Admin_manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5fbWFuYWdlXEFkbWluX21hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blog-details/Blog-details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZy1kZXRhaWxzXEJsb2ctZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blog-r/Blog-r.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZy1yXEJsb2ctci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Blog/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Contact/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Service/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/Team/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tiago/source/repos/Rentluxcar/Rentluxcar/Views/_ViewImports.cshtml]
